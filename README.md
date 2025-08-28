@@ -1,17 +1,9 @@
-# Web-Acessibility-Tool
-# A11y AI Inspector 🚀
-
-An intelligent Chrome Extension to detect and suggest fixes for web accessibility issues using AI.
-
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
-![Version](https://img.shields.io/badge/version-1.0.0-informational.svg)
-
+# Web-Acessibility-Tool (VisionCheck)
 ---
 
 ## 📖 About The Project
 
-Web accessibility (a11y) is crucial for creating inclusive web experiences, but identifying and fixing issues can be complex and time-consuming. **A11y AI Inspector** is a browser extension designed to help developers, testers, and designers automatically scan web pages for accessibility violations.
+Web accessibility (VisionCheck) is crucial for creating inclusive web experiences, but identifying and fixing issues can be complex and time-consuming. **VisionCheck** is a browser extension designed to help developers, testers, and designers automatically scan web pages for accessibility violations.
 
 Unlike traditional rule-based checkers, this tool leverages AI and machine learning to provide intelligent, context-aware suggestions for fixes, such as generating descriptive alt-text for images.
 
@@ -38,9 +30,7 @@ Unlike traditional rule-based checkers, this tool leverages AI and machine learn
 
 * **Backend / AI:**
     * Python
-    * Flask / FastAPI
-    * TensorFlow / Scikit-learn
-
+    * TensorFlow 
 ---
 
 ## ⚙️ Getting Started: Installation & Setup
@@ -64,14 +54,14 @@ To get a local copy up and running, follow these simple steps.
     * Enable **Developer mode** by toggling the switch in the top-right corner.
     * Click on the **"Load unpacked"** button.
     * Select the directory where you cloned the repository.
-    * The **A11y AI Inspector** icon should now appear in your browser's toolbar!
+    * The **VisionCheck** icon should now appear in your browser's toolbar!
 
 ---
 
 ## 👨‍💻 How to Use
 
 1.  Navigate to any website you want to test.
-2.  Click on the **A11y AI Inspector** icon in your browser toolbar.
+2.  Click on the **VisionCheck** icon in your browser toolbar.
 3.  Click the **"Scan Page"** button in the popup.
 4.  View the detected issues, accessibility score, and AI suggestions directly in the popup UI.
 5.  Click on an issue to highlight the problematic element on the page.
