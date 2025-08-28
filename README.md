@@ -99,6 +99,4 @@ Please see the `CONTRIBUTING.md` file for our code of conduct and the process fo
 
 ---
 
-## 📜 License
 
-This project is licensed under the MIT License - see the `LICENSE` file for details.
